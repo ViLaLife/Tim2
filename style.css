@@ -1,0 +1,83 @@
+body 
+{
+    text-align: center;
+    background: linear-gradient(rgb(134, 24, 185),white);
+    padding: top 800px; 
+    margin: 5px;
+}
+
+.profile
+{
+    border-radius: 50%;
+}
+
+#Welcome
+{
+    position: absolute;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+h1
+{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#name
+{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2
+{
+    font-size: 40;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.menu
+{
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.list
+{
+    float: left;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.line
+{
+    height: 8px;
+    width: 250px;
+    background-color: cadetblue;
+    margin: 8px auto;
+
+}
+#name
+{
+    color: (navy,rgb(124, 106, 106));
+    font-family: cursive;
+    font-size: 70px;
+}
+.parallax-inner
+{
+    display: table-cell;
+    vertical-align: middle;
+    
+}
+
